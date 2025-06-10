@@ -10,7 +10,7 @@ The primary goal of the dashboard is to analyze employee attrition patterns and 
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Key Insights:
-  # Workforce Overview:
+  
 -	Total Employees: 1,470
 -	Average Age: 37 years
 -	Average Salary: $7K
