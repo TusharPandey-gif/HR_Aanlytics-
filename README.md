@@ -1,6 +1,6 @@
 ## HR_Aanlytics-Dashboard
 
-# HR Analytics Dashboard – Project Summary
+# Project Summary
 This HR Analytics Dashboard provides a comprehensive overview of key workforce metrics with a focus on employee attrition. Designed using Power BI, the dashboard helps HR departments and business leaders make informed decisions by visualizing critical human resource trends across the organization.
 ___________________________________________________________________________________________________________________________________________________________________
 
