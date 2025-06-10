@@ -11,12 +11,12 @@ ________________________________________________________________________________
 
 # Key Insights:
   # Workforce Overview:
-•	Total Employees: 1,470
-•	Average Age: 37 years
-•	Average Salary: $7K
-•	Average Tenure: 7 years
-•	Attrition Count: 237
-•	Attrition Rate: 16%
+-	Total Employees: 1,470
+-	Average Age: 37 years
+-	Average Salary: $7K
+-	Average Tenure: 7 years
+-	Attrition Count: 237
+-	Attrition Rate: 16%
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Attrition Analysis:
