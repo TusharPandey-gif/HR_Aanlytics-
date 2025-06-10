@@ -28,16 +28,16 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Job Role Insights:
-•	High attrition among Laboratory Technicians, Sales Executives, Research Scientists
-•	Covers 9 job roles for department-specific analysis
+-	High attrition among Laboratory Technicians, Sales Executives, Research Scientists
+-	Covers 9 job roles for department-specific analysis
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Business Impact:
-•	This dashboard enables HR stakeholders to:
-•	Detect and act on high-risk employee groups
-•	Align pay and career strategies with employee needs
-•	Develop role-specific retention actions
-•	Make informed decisions using data-driven insights
+-	This dashboard enables HR stakeholders to:
+-	Detect and act on high-risk employee groups
+-	Align pay and career strategies with employee needs
+-	Develop role-specific retention actions
+-	Make informed decisions using data-driven insights
 ___________________________________________________________________________________________________________________________________________________________________
 # Target Audience
 Designed for HR managers, business analysts, senior leadership, and talent management professionals focused on enhancing workforce performance and retention.
