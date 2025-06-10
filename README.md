@@ -20,11 +20,11 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Attrition Analysis:
-•	By Age: Highest attrition (49%) among employees aged 26–35
-•	By Education: Life Sciences (38%), Medical (27%), Marketing (15%)
-•	By Salary: 69% of attrition occurs in the up to $5K salary bracket
-•	By Tenure: Highest attrition in employees with less than 2 years
-•	By Gender: 140 males vs. 79 females
+-	By Age: Highest attrition (49%) among employees aged 26–35
+-	By Education: Life Sciences (38%), Medical (27%), Marketing (15%)
+-	By Salary: 69% of attrition occurs in the up to $5K salary bracket
+-	By Tenure: Highest attrition in employees with less than 2 years
+-	By Gender: 140 males vs. 79 females
 ___________________________________________________________________________________________________________________________________________________________________
 
 # Job Role Insights:
